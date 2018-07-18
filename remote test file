@@ -1,2 +1,3 @@
 remote test file
-add test local modify
+add test local modify;
+remote modify test
